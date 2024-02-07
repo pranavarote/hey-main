@@ -1,4 +1,44 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import streamlit as st
 # import plotly.express as px
 import pandas as pd
@@ -103,6 +143,31 @@ def main():
             owner_bike = ['First Owner', 'Second Owner', 'Third Owner', 'Fourth Owner Or More']
 
             # c1,c2 = st.columns(2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             # with c1:
             original_title = '<h1 style=" color:#3366FF; font-size: 40px;"> Bike price ! 🏍️</h1>'
             st.markdown(original_title, unsafe_allow_html=True)
